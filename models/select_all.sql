@@ -1,1 +1,4 @@
-SELECT * FROM schema.table;
+SELECT
+    id,
+    email
+FROM schema.table;
